@@ -1,0 +1,2 @@
+export const ADDRESS_BOOK_UPDATE = 'ADDRESS_BOOK_UPDATE';
+export const ROLE_UPDATE = 'ROLE_UPDATE';
